@@ -1,6 +1,6 @@
 # azure-functions-python-example-2022
 
-This is an update example on how create, run and deploy an Azure Function App with Python.
+This is an updated example on how to create, run and deploy an Azure Function App with Python in 2022.
 
 ## Prerequisites
 
