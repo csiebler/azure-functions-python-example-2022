@@ -8,3 +8,16 @@ Content-Type: application/json
 {
     "name": "John Doe"
 }
+
+###
+
+GET https://functionapp20220913.azurewebsites.net/api/httptrigger
+
+###
+
+POST https://functionapp20220913.azurewebsites.net/api/httptrigger
+Content-Type: application/json
+
+{
+    "name": "John Doe"
+}
