@@ -1,0 +1,10 @@
+GET http://localhost:7071/api/HttpTrigger
+
+###
+
+POST http://localhost:7071/api/HttpTrigger
+Content-Type: application/json
+
+{
+    "name": "John Doe"
+}
